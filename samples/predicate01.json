@@ -1,0 +1,8 @@
+{
+  "null": null,
+  "boolean": true,
+  "number": 810,
+  "string": "さばの味噌煮定食",
+  "array" : ["ご飯", "味噌汁", "割り干し大根"],
+  "object": {"drink": "桜花吟醸酒"}
+}

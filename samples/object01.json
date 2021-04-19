@@ -1,0 +1,18 @@
+{
+  "curry": {
+    "name": "牛だく牛カレー",
+    "price": 598,
+    "energy": "774"
+  },
+  "焼肉": {
+    "name": "牛焼肉定食",
+    "price": 598,
+    "energey": 785,
+    "sides": ["rice", "salad", "miso soup"]
+  },
+  "bowl": {
+    "name": "牛丼",
+    "price": 352,
+    "energy": 635
+  }
+}
