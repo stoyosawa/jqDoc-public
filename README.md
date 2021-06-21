@@ -1,6 +1,15 @@
 # jqDoc-public
 
-「jqハンドブック」（Cutt、2021年6月）の目次、掲載サンプルファイル、関数等のリストを乗せた[付録C](./sectionC-list.md)を公開しています。
+「jqハンドブック」（カットシステム、2021年7月）の目次、掲載サンプルファイル、関数等のリストを乗せた[付録C](./sectionC-list.md)を公開しています。
+
+ご購入はこちらから: 【
+[出版社から](http://www.cutt.co.jp/book/978-4-87783-491-3.html) |
+[honto](https://honto.jp/netstore/pd-book_31037910.html) |
+[amazon.co.jp](https://www.amazon.co.jp/jqハンドブック―NetOps-DevOps必携のJSONパーザ-豊沢聡/dp/4877834915)
+】
+
+![表紙](./imgBookCover.png)
+
 
 ## 目次
 
