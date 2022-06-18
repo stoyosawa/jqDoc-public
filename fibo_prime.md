@@ -6,9 +6,9 @@
 
 というわけで、ここではフィボナッチ数と素数の生成に挑戦します。
 
-コード（フィルタファイル）は`fibo.jq`と`prime.jq`で、次の[Github](https://github.com/stoyosawa/jqDoc-public/filters)から取得できます（短いのでコピペでも十分ですが）。
+コード（フィルタファイル）は`fibo.jq`と`prime.jq`で、次の[Github](https://github.com/stoyosawa/jqDoc-public/tree/main/filters)から取得できます（短いのでコピペでも十分ですが）。
 
-```https://github.com/stoyosawa/jqDoc-public/filters```
+```https://github.com/stoyosawa/jqDoc-public/```
 
 ### フィルタファイルの使い方
 
