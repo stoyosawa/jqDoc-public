@@ -1,14 +1,14 @@
-## jqのむだづかい
+## jqのむだづかいーフィボナッチ数・素数生成篇
 
-[JSON](https://datatracker.ietf.org/doc/html/rfc7159)処理のコマンドラインツールである[jq](https://stedolan.github.io/jq/)は、JSONテキストを1行でちゃくっと解析、変換するときに使うものです。複雑な分岐や制御が絡んできたら、`sed`や`awk`など他の文字列処理ユーティリティと組わ合わせて何とかするのが通例です。単体で複雑なことをしたりはしません。
+[JSON](https://datatracker.ietf.org/doc/html/rfc7159)処理のコマンドラインツールである[jq](https://stedolan.github.io/jq/)は、JSONテキストを1行でちゃくっと解析、変換するときに使うものです。複雑な分岐や制御が絡んできたら、`sed`や`awk`など他の文字列処理ユーティリティと組み合わせて何とかするのが通例です。単体で複雑なことをしたりはしません。
 
 とは言え、`jq`にも変数定義、`for`や`if`などの制御構造、関数定義などプログラミング言語らしき機能が備わっているので、「やればできんじゃねぇ」と野望を募らせてしまうこともあります。
 
 というわけで、ここではフィボナッチ数と素数の生成に挑戦します。
 
-コード（フィルタファイル）は`fibo.jq`と`prime.jq`で、次の[Github](https://github.com/stoyosawa/jqDoc-public)から取得できます（短いのでコピペでも十分ですが）。
+コード（フィルタファイル）は`fibo.jq`と`prime.jq`で、次の[Github](https://github.com/stoyosawa/jqDoc-public/filters)から取得できます（短いのでコピペでも十分ですが）。
 
-```https://github.com/stoyosawa/jqDoc-public```
+```https://github.com/stoyosawa/jqDoc-public/filters```
 
 ### フィルタファイルの使い方
 
