@@ -1,14 +1,20 @@
 # jqDoc-public
 
-「jqハンドブック」（カットシステム、2021年7月）の目次、掲載サンプルファイル、関数等のリストを乗せた[付録C](./sectionC-list.md)を公開しています。
+[「jqハンドブック」](http://www.cutt.co.jp/book/978-4-87783-491-3.html)（カットシステム、2021年7月）の目次などを公開しています。
+
+- [./samples](./samples)ー本書掲載のサンプルJSONファイル
+- [付録C](./sectionC-list.md)ー関数等のリスト
+- [jqのむだつかい（フィボナッチ数・素数生成篇）](./fibo_prime.md)ー無謀にも、`jq`でフィボナッチ数と素数を生成するコード（フィルタ）に挑戦します。
+- [./filters](./filters)ーおまけのフィルタファイル。本書に掲載されていないものもあとから加えています。
 
 ご購入はこちらから: 【
-[出版社から](http://www.cutt.co.jp/book/978-4-87783-491-3.html) |
+[出版社](http://www.cutt.co.jp/book/978-4-87783-491-3.html) |
 [honto](https://honto.jp/netstore/pd-book_31037910.html) |
-[amazon.co.jp](https://www.amazon.co.jp/jqハンドブック―NetOps-DevOps必携のJSONパーザ-豊沢聡/dp/4877834915)
+[amazon.co.jp](https://www.amazon.co.jp/jq/dp/4877834915) |
+[ヨドバシカメラ](https://www.yodobashi.com/product/100000009003450000/)
 】
 
-![表紙](./imgBookCover.png)
+<img src="http://www.cutt.co.jp/book/images/978-4-87783-491-3.png" height="200" alt="表紙"></img>
 
 
 ## 目次
