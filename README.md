@@ -4,8 +4,6 @@
 
 - [./samples](./samples)ー本書掲載のサンプルJSONファイル
 - [付録C](./sectionC-list.md)ー関数等のリスト
-- [jqのむだつかい（フィボナッチ数・素数生成篇）](./fibo_prime.md)ー無謀にも、`jq`でフィボナッチ数と素数を生成するコード（フィルタ）に挑戦します。
-- [./filters](./filters)ーおまけのフィルタファイル。本書に掲載されていないものもあとから加えています。
 
 ご購入はこちらから: 【
 [出版社](http://www.cutt.co.jp/book/978-4-87783-491-3.html) |
@@ -15,6 +13,13 @@
 】
 
 <img src="http://www.cutt.co.jp/book/images/978-4-87783-491-3.png" height="200" alt="表紙"></img>
+
+間欠的にですが、非実用的な`jq`の用法を[Qiita](https://qiita.com/)に投稿しているので、そちらもご参照ください。
+
+- [jqのむだづかいーフィボナッチ数・素数生成篇](https://qiita.com/stoyosawa/items/5064ba9ccd0533eb05ef)
+- [jqのむだづかいーTSV篇](https://qiita.com/stoyosawa/items/de243c052a6484e3c60e)
+
+掲載されているコード（フィルタファイル）はこのGithubの[filters](./filters)フォルダに収容してあります。
 
 
 ## 目次
