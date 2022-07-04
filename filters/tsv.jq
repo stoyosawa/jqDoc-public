@@ -1,6 +1,6 @@
 split("\n") |
 map(select(. != "")) |
-map(split("\t")) |
+map(split("[\\t,]"; "g")) |
 .[0] as $header |
 [
 	.[1:][] |
