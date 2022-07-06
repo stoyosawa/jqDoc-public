@@ -1,0 +1,47 @@
+[
+  {
+    "id": 1,
+    "Name": "Braund, Mr. Owen Harris",
+    "Sex": "male",
+    "Age": 22,
+    "Ticket": "A/5 21171",
+    "Fare": 7.25,
+    "Cabin": ""
+  },
+  {
+    "id": 2,
+    "Name": "Cumings, Mrs. John Bradley (Florence Briggs Thayer)",
+    "Sex": "female",
+    "Age": 38,
+    "Ticket": "PC 17599",
+    "Fare": 71.2833,
+    "Cabin": "C85"
+  },
+  {
+    "id": 3,
+    "Name": "Heikkinen, Miss. Laina",
+    "Sex": "female",
+    "Age": 26,
+    "Ticket": "STON/O2. 3101282",
+    "Fare": 7.925,
+    "Cabin": ""
+  },
+  {
+    "id": 4,
+    "Name": "Futrelle, Mrs. Jacques Heath (Lily May Peel)",
+    "Sex": "female",
+    "Age": 35,
+    "Ticket": "113803",
+    "Fare": 53.1,
+    "Cabin": "C123"
+  },
+  {
+    "id": 5,
+    "Name": "Allen, Mr. William Henry",
+    "Sex": "male",
+    "Age": 35,
+    "Ticket": "373450",
+    "Fare": 8.05,
+    "Cabin": ""
+  }
+]
