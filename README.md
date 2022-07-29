@@ -20,6 +20,7 @@
 - [jqのむだづかいーTSV篇](https://qiita.com/stoyosawa/items/de243c052a6484e3c60e)
 - [jqのむだづかいー表整形篇](https://qiita.com/stoyosawa/items/ff6635587ef0043da210)
 - [jqのむだづかいー検索篇](https://qiita.com/stoyosawa/items/d607b09e8140456cd2f8)
+- [jqのむだづかいー最大値篇](https://qiita.com/stoyosawa/items/0fe5d6555af5b6ee8e50)
 
 掲載されているコード（フィルタファイル）はこのGithubの[filters](./filters)フォルダに収容してあります。
 
