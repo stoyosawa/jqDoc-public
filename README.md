@@ -16,13 +16,14 @@
 
 間欠的にですが、非実用的な`jq`の用法を[Qiita](https://qiita.com/)に投稿しているので、そちらもご参照ください。
 
-- [jqのむだづかいーフィボナッチ数・素数生成篇](https://qiita.com/stoyosawa/items/5064ba9ccd0533eb05ef)
-- [jqのむだづかいーTSV篇](https://qiita.com/stoyosawa/items/de243c052a6484e3c60e)
-- [jqのむだづかいー表整形篇](https://qiita.com/stoyosawa/items/ff6635587ef0043da210)
-- [jqのむだづかいー検索篇](https://qiita.com/stoyosawa/items/d607b09e8140456cd2f8)
-- [jqのむだづかいー最大値篇](https://qiita.com/stoyosawa/items/0fe5d6555af5b6ee8e50)
+- [jqのむだづかいーフィボナッチ数・素数生成篇](https://qiita.com/stoyosawa/items/5064ba9ccd0533eb05ef) ... [`fibo.jq`](./filters/fibo.jq), [`prime.jq`](./filters/prime.jq)
+- [jqのむだづかいーTSV篇](https://qiita.com/stoyosawa/items/de243c052a6484e3c60e) ... [`tsv.jq`](./filters/tsv.jq)
+- [jqのむだづかいー表整形篇](https://qiita.com/stoyosawa/items/ff6635587ef0043da210) ... [`tabular.jq`](./filters/tabular.jq)
+- [jqのむだづかいー検索篇](https://qiita.com/stoyosawa/items/d607b09e8140456cd2f8) ... [`search.jq`](./filters/search.jq)
+- [jqのむだづかいー最大値篇](https://qiita.com/stoyosawa/items/0fe5d6555af5b6ee8e50)  ... [`max.jq`](.filters/max.jq)
+- [jqのむだづかいー階乗再帰篇](https://qiita.com/stoyosawa/items/2707b20819dcaa21d1a4) ... [`factorial.jq`](./filters/factorial.jq)
 
-掲載されているコード（フィルタファイル）はこのGithubの[filters](./filters)フォルダに収容してあります。
+各項目の右に示したファイルは、掲載したコード（フィルタファイル）です。
 
 
 ## 目次
