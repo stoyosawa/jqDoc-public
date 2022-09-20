@@ -20,7 +20,7 @@
 - [jqのむだづかいーTSV篇](https://qiita.com/stoyosawa/items/de243c052a6484e3c60e) ... [`tsv.jq`](./filters/tsv.jq)
 - [jqのむだづかいー表整形篇](https://qiita.com/stoyosawa/items/ff6635587ef0043da210) ... [`tabular.jq`](./filters/tabular.jq)
 - [jqのむだづかいー検索篇](https://qiita.com/stoyosawa/items/d607b09e8140456cd2f8) ... [`search.jq`](./filters/search.jq)
-- [jqのむだづかいー最大値篇](https://qiita.com/stoyosawa/items/0fe5d6555af5b6ee8e50)  ... [`max.jq`](.filters/max.jq)
+- [jqのむだづかいー最大値篇](https://qiita.com/stoyosawa/items/0fe5d6555af5b6ee8e50)  ... [`max.jq`](./filters/max.jq)
 - [jqのむだづかいー階乗再帰篇](https://qiita.com/stoyosawa/items/2707b20819dcaa21d1a4) ... [`factorial.jq`](./filters/factorial.jq)
 
 各項目の右に示したファイルは、掲載したコード（フィルタファイル）です。
