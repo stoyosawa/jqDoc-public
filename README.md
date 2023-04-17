@@ -29,7 +29,7 @@
    <ul>
   	<li><a href="./jqCookbook/Toc.md">目次</a></li>
 	<li><a href="./jqCookbook/Samples">サンプルJSONファイル</a></li>
-	<li><a href="./jqCookbook/E-functions.md">付録E：本書で記載の関数のリスト</a></li>
+	<li><a href="./jqCookbook/E-Functions.md">付録E：本書で記載の関数のリスト</a></li>
 	<li><a href="./jqCookbook/Errata.md">Errata：訂正事項、別解など</a></li>
 	<li>ご購入はこちらから：	【
 		<a href="https://www.cutt.co.jp/book/978-4-87783-508-8.html">出版社</a>｜
