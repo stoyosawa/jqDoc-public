@@ -1,0 +1,5 @@
+# function.json の tenpura から抽出
+野菜天丼
+野菜天丼 miso-soup
+天ぷらそば price
+天ぷらそば items 3

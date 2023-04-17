@@ -1,0 +1,5 @@
+{"date": "12 May 2020 05:17:34 UTC", "user":"admin","method":"GET","status":400}
+{"date": "12 May 2020 05:18:12 UTC", "user":"admin","method":"POST","status":200}
+Connection failure.
+{"date": "12 May 2020 05:18:44 UTC", "user":"admin","method":"GET","status":200}
+{"date": "12 May 2020 05:19:01 UTC", "user":"admin","method":"GET","status":301}

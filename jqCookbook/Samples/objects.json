@@ -1,0 +1,4 @@
+{"user":"roy","method":"GET","uri":"/mgmt/tm/sys/tmm-stat","status":200}
+{"user":"pris","method":"GET","uri":"/mgmt/tm/sys/disk/stat","status":400}
+{"user":"leon","method":"POST","uri":"/mgmt/tm/util/bash","status":200}
+{"user":"roy","method":"POST","uri":"/mgmt/tm/sys/versions","status":404}

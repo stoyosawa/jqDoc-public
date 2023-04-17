@@ -1,0 +1,108 @@
+{
+  "null_like": [
+    null, true, false, 0, 100, "", "寿司", [], ["回転"], {}, {"name": "〆さば"}
+  ],
+
+  "nested_numbers": [
+    6929,
+    [
+      7583,  
+      ["いくら軍艦", false, null, 5077],
+      "うに軍艦"
+    ],
+    {
+      "planck": 6.62607015e-34,
+      "name": "Max Karl Ernst Ludwig Planck",
+      "isConstant": true
+    }
+  ],
+
+  "sake_table": [
+    ["獺祭", "東洋美人", "五橋", "富久寿", "五橋"],
+    ["磯自慢", "志田泉", "喜久酔", "花の舞"],
+    ["十四代", "上喜元", "出羽桜", "初孫"]
+  ],
+
+  "wine_table": [
+    ["Rippon", "Chard Farm", "Rabbit Ranch"],
+    ["Neudorf", "Seifried"],
+    ["Pegasus", "Waipara", "Terrace Edge"]
+  ],
+
+  "two_arrays": [
+    ["黄皿", "赤皿", "黒皿"],
+    [120, 180, 360]
+  ],
+
+  "shizuoka": ["磯自慢", "開運", "英君", "志太泉", "喜久酔", "花の舞", "杉錦", "高砂"],
+
+  "sake1": ["獺祭", "東洋美人", "五橋", "富久寿", "五橋"],
+  "sake2": ["獺祭", "金雀", "雁木", "五橋"],
+  "sake3": ["磯自慢", "志太泉", "喜久酔", "花の舞"],
+  "sake_prop": {"山口": "獺祭", "静岡": "開運", "東京": "國府鶴"},
+  "primitives": [null, true, false, 3.14, "π"],
+
+  "stats": [44, 40, 42, 44, 44, 42, 40, 44, 45, 44],
+  "stats_odd": [44, 40, 42, 44, 44, 42, 40, 44, 45, 44, 41],
+
+  "nested_arrays": [
+    "素数リスト",
+    [2, 3, 5, 7, 11],
+    [
+      [13, 17, 19, 23, 29],
+      {
+        "numbers": "prime"
+      }
+    ]
+  ],
+
+  "rest_settings": {
+    "REST_HOST": "https://rest.example.com/",
+    "REST_USER": "admin",
+    "REST_PASSWORD": "admin",
+    "REST_COMMAND": "GET"
+  },
+
+  "ikura": {
+    "name": "いくら",
+    "color": "青皿",
+    "allergy": null,
+    "type": "軍艦",
+    "price": 200
+  },
+
+  "tenpura": {
+    "野菜天丼": {
+      "price": 590,
+      "items": ["なす", "かぼちゃ", "さつまいも", "れんこん", "いんげん","まいたけ"],
+      "miso-soup": true
+    },
+    "天ぷらそば": {
+      "price": 920,
+      "items": ["ちくわ", "海老", "とり天", "なす", "れんこん"],
+      "miso-soup": false
+    }
+  },
+
+  "gyuudon": [
+    {"name": "牛めし", "miso-soup": true, "price": 380},
+    {"name": "ネギたっぷり肉うどん", "price": 580},
+    {"name": "オリジナルカレー", "miso-soup": true, "price": 480}
+  ],
+
+  "restaurants": {
+    "ガスト": {
+      "state": "open",
+      "location": "Musashi-Koganei"
+    },
+    "藍屋": {
+      "state": "closed",
+      "location": "Mitaka"
+    },
+    "ジョナサン": {
+      "state": "open",
+      "location": "Higashi-Koganei"
+    }
+  }
+
+}

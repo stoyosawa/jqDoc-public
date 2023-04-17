@@ -1,0 +1,21 @@
+{
+  "皿": [
+    {"plate_id": 0, "plate": "白皿", "price": 100},
+    {"plate_id": 1, "plate": "青皿", "price": 200},
+    {"plate_id": 2, "plate": "黒皿", "price": 400}
+  ],
+
+  "三鷹店": [
+    {"name": "サーモン", "type": "にぎり", "plate_id": 0},
+    {"name": "まぐろ",   "type": "にぎり", "plate_id": 1},
+    {"name": "うに",    "type": "軍艦",  "plate_id": 2},
+    {"name": "かっぱ",   "type": "巻物", "plate_id": 0}
+  ],
+
+  "武蔵境店": [
+    {"name": "びんちょう", "type": "にぎり", "plate_id": 0},
+    {"name": "まぐろ",    "type": "にぎり", "plate_id": 1},
+    {"name": "いくら",    "type": "軍艦",  "plate_id": 2},
+    {"name": "かっぱ",    "type": "巻物",  "plate_id": 0}
+  ]
+}
