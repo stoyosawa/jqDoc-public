@@ -1,7 +1,7 @@
 # jqDoc-public
 
 カットシステム刊の
-	[『jqハンドブック】](http://www.cutt.co.jp/book/978-4-87783-491-3.html)（2021年7月）および
+	[『jqハンドブック』](http://www.cutt.co.jp/book/978-4-87783-491-3.html)（2021年7月）および
 	[『jqクックブック』](https://www.cutt.co.jp/book/978-4-87783-508-8.html)（2023年5月）
 から次の中身を公開しています。
 
@@ -13,12 +13,11 @@
     <li><a href="./jqHandbook/Toc.md">目次</a></li>
     <li><a href="./jqHandbook/Samples">サンプルJSONファイル</a></li>
     <li><a href="./jqHandbook/sectionC-list.md">付録C：jqのコマンドオプション、特殊記号、ビルトン関数などのリスト</a></li>
-    <li>ご購入はこちらから：<br/>
-    	【
-    	<a href="http://www.cutt.co.jp/book/978-4-87783-491-3.html">出版社</a></li>｜
-		<a href="https://honto.jp/netstore/pd-book_31037910.html">honto</a></li>｜
-		<a href="https://www.yodobashi.com/product/100000009003450000/">ヨドバシカメラ</a></li>｜
-		<a href="https://www.amazon.co.jp/jq/dp/4877834915">amazon.co.jp</a></li>
+    <li>ご購入はこちらから：	【
+    	<a href="https://www.cutt.co.jp/book/978-4-87783-491-3.html">出版社</a>｜
+		<a href="https://honto.jp/netstore/pd-book_31037910.html">honto</a>｜
+		<a href="https://www.yodobashi.com/product/100000009003450000/">ヨドバシカメラ</a>｜
+		<a href="https://www.amazon.co.jp/jq/dp/4877834915">amazon.co.jp</a>
   		】
   	</li>
    </ul>
@@ -32,22 +31,16 @@
 	<li><a href="./jqCookbook/Samples">サンプルJSONファイル</a></li>
 	<li><a href="./jqCookbook/E-functions.md">付録E：本書で記載の関数のリスト</a></li>
 	<li><a href="./jqCookbook/Errata.md">Errata：訂正事項、別解など</a></li>
+	<li>ご購入はこちらから：	【
+		<a href="https://www.cutt.co.jp/book/978-4-87783-508-8.html">出版社</a>｜
+		<a href="https://honto.jp/netstore/pd-book_32427461.html">honto</a>｜
+		<a href="https://www.yodobashi.com/product/100000009003450000/">ヨドバシカメラ</a>｜
+		<a href="https://www.amazon.co.jp/jq/dp/4877834915">amazon.co.jp</a>
+  		】
+  	</li>
   </td>
  </tr>
 </table>
-
-- [jqハンドブック](./jqHandbook)
-- [jqクックブック](./jqCookbook)
-
-
-
- - jqクックブック 【
-	[出版社](https://www.cutt.co.jp/book/978-4-87783-508-8.html) |
-	[honto](https://honto.jp/netstore/pd-book_32427461.html) |
-	[amazon.co.jp](https://www.amazon.co.jp/jq/dp/4877834915) |
-	[ヨドバシカメラ](https://www.yodobashi.com/product/100000009003450000/)
- 】
-
 
 習作でよければ、クックブックのもとネタを[Qiita](https://qiita.com/)に投稿しています。完成版は『jqクックブック』にあります。
 
