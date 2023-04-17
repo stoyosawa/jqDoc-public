@@ -13,12 +13,14 @@
     <li><a href="./jqHandbook/Toc.md">目次</a></li>
     <li><a href="./jqHandbook/Samples">サンプルJSONファイル</a></li>
     <li><a href="./jqHandbook/sectionC-list.md">付録C：jqのコマンドオプション、特殊記号、ビルトン関数などのリスト</a></li>
-    <li>ご購入はこちらから：【<a href="http://www.cutt.co.jp/book/978-4-87783-491-3.html">出版社</a></li>｜
-		<a href="https://honto.jp/netstore/pd-book_31037910.html">[honto</a></li>｜
+    <li>ご購入はこちらから：
+    	【
+    	<a href="http://www.cutt.co.jp/book/978-4-87783-491-3.html">出版社</a></li>｜
+		<a href="https://honto.jp/netstore/pd-book_31037910.html">honto</a></li>｜
 		<a href="https://www.yodobashi.com/product/100000009003450000/">ヨドバシカメラ</a></li>｜
 		<a href="https://www.amazon.co.jp/jq/dp/4877834915">amazon.co.jp</a></li>
-  	】</li>
-
+  		】
+  	</li>
    </ul>
   </td>
  </tr>
