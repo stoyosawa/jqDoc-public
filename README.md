@@ -35,7 +35,7 @@
 		<a href="https://www.cutt.co.jp/book/978-4-87783-508-8.html">出版社</a>｜
 		<a href="https://honto.jp/netstore/pd-book_32427461.html">honto</a>｜
 		<a href="https://www.yodobashi.com/product/100000009003710680/">ヨドバシカメラ</a>｜
-		<a href="https://www.amazon.co.jp/dp/4877835083>amazon.co.jp">amazon.co.jp</a>
+		<a href="https://www.amazon.co.jp/dp/4877835083">amazon.co.jp</a>
   		】
   	</li>
   </td>
