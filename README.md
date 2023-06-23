@@ -5,7 +5,7 @@
 	[『jqクックブック』](https://www.cutt.co.jp/book/978-4-87783-508-8.html)（2023年5月）
 から次の中身を公開しています。
 
-<table>
+<table border="0">
  <tr>
   <td><img src="https://www.cutt.co.jp/book/images/978-4-87783-491-3.png" width="150" alt="表紙"></img></td>
   <td>
@@ -29,13 +29,13 @@
    <ul>
   	<li><a href="./jqCookbook/Toc.md">目次</a></li>
 	<li><a href="./jqCookbook/Samples">サンプルJSONファイル</a></li>
-	<li><a href="./jqCookbook/E-Functions.md">付録E：本書で記載の関数のリスト</a></li>
+	<li><a href="./jqCookbook/E-Functions.md">付録E：本書記載の関数のリスト</a></li>
 	<li><a href="./jqCookbook/Errata.md">Errata：訂正事項、別解など</a></li>
 	<li>ご購入はこちらから：	【
 		<a href="https://www.cutt.co.jp/book/978-4-87783-508-8.html">出版社</a>｜
 		<a href="https://honto.jp/netstore/pd-book_32427461.html">honto</a>｜
-		<a href="https://www.yodobashi.com/product/100000009003450000/">ヨドバシカメラ</a>｜
-		<a href="https://www.amazon.co.jp/jq/dp/4877834915">amazon.co.jp</a>
+		<a href="https://www.yodobashi.com/product/100000009003710680/">ヨドバシカメラ</a>｜
+		<a href="https://www.amazon.co.jp/dp/4877835083>amazon.co.jp">amazon.co.jp</a>
   		】
   	</li>
   </td>
