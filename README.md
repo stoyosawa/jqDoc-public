@@ -1,14 +1,18 @@
 # jqDoc-public
 
-カットシステム刊の
-	[『jqハンドブック』](http://www.cutt.co.jp/book/978-4-87783-491-3.html)（2021年7月）および
-	[『jqクックブック』](https://www.cutt.co.jp/book/978-4-87783-508-8.html)（2023年5月）
-から次の中身を公開しています。
+`jq`は、JSONからほしいデータだけをさくっと抽出するコマンドライン指向のツールです。`curl`からのREST API応答をそのままパイプ経由で処理できるため、DevOpsやNetOpsに好んで利用されています。加工・整形などもできるので、JSONから表を作成するといった、Node.jsやPythonで書きそうなプログラムらしきものも達成できます。
+
+Windows、Mac、Linuexなどたいていのプラットフォームで動作します。ただ、フィルタの特殊文字がWindows向けではないので、WindowsユーザはWSLから使うことが多いです。
+
+本家のページは[./jq](https://jqlang.github.io/jq/)です。あ、2023年9月7日に待望の1.7がリリースされました。
+
+本ページは、カットシステムから刊行された`jq`についての書籍2冊から一部を抜粋して公開しています。
 
 <table border="0">
  <tr>
   <td><img src="https://www.cutt.co.jp/book/images/978-4-87783-491-3.png" width="150" alt="表紙"></img></td>
   <td>
+  <a href="http://www.cutt.co.jp/book/978-4-87783-491-3.html">『jqハンドブック』</a>（2021年7月）
    <ul>
     <li><a href="./jqHandbook/Toc.md">目次</a></li>
     <li><a href="./jqHandbook/Samples">サンプルJSONファイル</a></li>
@@ -26,6 +30,7 @@
  <tr>
   <td><img src="https://www.cutt.co.jp/book/images/978-4-87783-508-8.png" width="150" alt="表紙"></img></td>
   <td>
+   <a href="https://www.cutt.co.jp/book/978-4-87783-508-8.html">『jqクックブック』</a>（2023年5月）
    <ul>
   	<li><a href="./jqCookbook/Toc.md">目次</a></li>
 	<li><a href="./jqCookbook/Samples">サンプルJSONファイル</a></li>
